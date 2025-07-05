@@ -8,7 +8,7 @@
 
 </div>
 
-- 🔭 I’m currently working at [Storefox.ai](https://www.linkedin.com/company/p33r-finance/) as Founding AI Engineer.
+- 🔭 I’m currently working at [Storefox.ai](https://www.storefox.ai/) as Founding AI Engineer.
 - 🌱 I’m passionate about LLMs, AI and using AI to build cool stuff.
 - ⚡ Fun fact: I read books, listen to music, and think about when will AI take my job!
 
