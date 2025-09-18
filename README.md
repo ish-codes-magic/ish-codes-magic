@@ -21,6 +21,6 @@
 ## 🏆 My Stats:
 
 <p>
-    <img height=175 alt="GitHub Stats" src="https://github-readme-stats-54qiai35y-ishitas-projects-ddd83c97.vercel.app/api?username=ish-codes-magic&show_icons=true&count_private=true&theme=dark" />&nbsp;&nbsp;
-    <img height=175 alt="Most Used Languages" src="https://github-readme-stats-54qiai35y-ishitas-projects-ddd83c97.vercel.app/api/top-langs/?username=ish-codes-magic&layout=compact&theme=dark" />&nbsp;&nbsp;
+    <img height=175 alt="GitHub Stats" src="https://github-readme-stats-sage-nine-37.vercel.app/api?username=ish-codes-magic&show_icons=true&count_private=true&theme=dark" />&nbsp;&nbsp;
+    <img height=175 alt="Most Used Languages" src="https://github-readme-stats-sage-nine-37.vercel.app/api/top-langs/?username=ish-codes-magic&layout=compact&theme=dark" />&nbsp;&nbsp;
 </p>
