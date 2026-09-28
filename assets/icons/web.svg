@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 256 256" role="img" aria-label="Portfolio">
+<rect width="256" height="256" rx="60" fill="#242938"/>
+<g fill="none" stroke="#79c0ff" stroke-width="11" stroke-linecap="round">
+<circle cx="128" cy="128" r="72"/>
+<ellipse cx="128" cy="128" rx="32" ry="72"/>
+<path d="M56 128h144M68 92h120M68 164h120"/>
+</g>
+</svg>
