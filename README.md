@@ -52,12 +52,12 @@
 
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sage-nine-37.vercel.app/api?username=ish-codes-magic&show_icons=true&count_private=true&hide_border=true&theme=github_dark">
-  <img height="170" alt="GitHub stats for ish-codes-magic" src="https://github-readme-stats-sage-nine-37.vercel.app/api?username=ish-codes-magic&show_icons=true&count_private=true&hide_border=true">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sage-nine-37.vercel.app/api?username=ish-codes-magic&show_icons=true&hide_border=true&theme=github_dark">
+  <img alt="GitHub stats for ish-codes-magic" src="https://github-readme-stats-sage-nine-37.vercel.app/api?username=ish-codes-magic&show_icons=true&hide_border=true">
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sage-nine-37.vercel.app/api/top-langs/?username=ish-codes-magic&layout=compact&hide_border=true&theme=github_dark">
-  <img height="170" alt="Most used languages" src="https://github-readme-stats-sage-nine-37.vercel.app/api/top-langs/?username=ish-codes-magic&layout=compact&hide_border=true">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sage-nine-37.vercel.app/api/top-langs/?username=ish-codes-magic&layout=compact&hide=jupyter%20notebook,html&langs_count=8&hide_border=true&theme=github_dark">
+  <img alt="Most used languages, excluding Jupyter Notebook and HTML" src="https://github-readme-stats-sage-nine-37.vercel.app/api/top-langs/?username=ish-codes-magic&layout=compact&hide=jupyter%20notebook,html&langs_count=8&hide_border=true">
 </picture>
 </div>
 
