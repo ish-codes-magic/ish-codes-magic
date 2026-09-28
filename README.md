@@ -32,11 +32,11 @@
 ## ✍️ Latest on Medium
 
 <!-- BLOG-POST-LIST:START -->
-- [Gradient Descent Algorithm: How Does it Work in Machine Learning?](https://medium.com/@ishta.pal/gradient-descent-algorithm-how-does-it-work-in-machine-learning-f0ed945784bd)
-- [Intuition behind perceptron: the building blocks of Neural Networks](https://medium.com/@ishta.pal/intuition-behind-perceptron-the-building-blocks-of-neural-networks-f0b6c7e1764e)
-- [20 Most Asked Interview questions on Python](https://medium.com/@ishta.pal/20-most-asked-interview-questions-on-python-090978ef9a6c)
-- [Heap sort explained using python](https://medium.com/@ishta.pal/heap-sort-explained-using-python-4f1466509521)
-- [Webscraping using Scrapy: Creating your first scrapy project](https://medium.com/@ishta.pal/webscraping-using-scrapy-creating-your-first-scrapy-project-f7741175759f)
+- [Gradient Descent Algorithm: How Does it Work in Machine Learning?](https://medium.com/@ishta.pal/gradient-descent-algorithm-how-does-it-work-in-machine-learning-f0ed945784bd?source=rss-a39c962de69b------2)
+- [Intuition behind perceptron: the building blocks of Neural Networks](https://medium.com/@ishta.pal/intuition-behind-perceptron-the-building-blocks-of-neural-networks-f0b6c7e1764e?source=rss-a39c962de69b------2)
+- [20 Most Asked Interview questions on Python](https://medium.com/@ishta.pal/20-most-asked-interview-questions-on-python-090978ef9a6c?source=rss-a39c962de69b------2)
+- [Heap sort explained using python](https://medium.com/@ishta.pal/heap-sort-explained-using-python-4f1466509521?source=rss-a39c962de69b------2)
+- [Webscraping using Scrapy: Creating your first scrapy project](https://medium.com/@ishta.pal/webscraping-using-scrapy-creating-your-first-scrapy-project-f7741175759f?source=rss-a39c962de69b------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🛠️ Toolbox
